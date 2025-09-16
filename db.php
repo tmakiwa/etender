@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$db = 'tender_platform';
+$db = 'tender';
 $user = 'root'; // Set this to your DB user
 $pass = ''; // Set this to your DB password
 
@@ -11,4 +11,3 @@ try {
 } catch (PDOException $e) {
     die('Database connection failed: ' . $e->getMessage());
 }
-?>
