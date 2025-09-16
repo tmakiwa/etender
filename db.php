@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$db = 'tender';
+$db = 'etender';
 $user = 'root'; // Set this to your DB user
 $pass = ''; // Set this to your DB password
 
